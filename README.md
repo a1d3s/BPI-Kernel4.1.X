@@ -1,4 +1,4 @@
-# BPI-Kernel4.0 
+# BPI-Kernel4.1.x
 Supports BPI M1 / M1Plus / M2 / M3
 =========
 
